@@ -1,2 +1,2 @@
-# llm-coursera
-a set of codes during "Generative AI with Large Language Models" course.
+# LLM by Coursera
+A set of codes during "Generative AI with Large Language Models" Course.
